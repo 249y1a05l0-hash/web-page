@@ -1,1 +1,1 @@
-# web-page
+A modern interactive web page created using HTML, CSS, JavaScript, ES6 concepts, and DOM manipulation. Features include dynamic background color changes, responsive design, and interactive UI elements.
