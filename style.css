@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    color: green;
+    font-size: 22px;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
